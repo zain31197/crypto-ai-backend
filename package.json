@@ -4,6 +4,7 @@
   "description": "Node.js backend to handle Hugging Face AI questions for crypto site",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
